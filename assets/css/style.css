@@ -448,6 +448,7 @@ button:hover{
     .phase-3 .viewmeth{
     width: 80%;
     display: grid;justify-content: center;
+    margin: auto;
 }
 .cont-overview{
     width: 100%;
