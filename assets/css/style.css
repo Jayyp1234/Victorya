@@ -142,6 +142,13 @@ header .advert-content{
         padding-right: 0px;
     }
 }
+@media all and (max-width: 390px){
+    nav div > a {
+        margin-right: 10px;
+        font-size: 70%;
+    }
+    
+}
 .advert-content p{
      color: #255A7E;
     font-size: 4vw;
@@ -300,6 +307,9 @@ button:hover{
     .new-container > .sec{
         display: grid;
     }
+    .new-container > .sec img{
+         margin-bottom: 20px;
+    }
     .new-container > .firs {
         order: 1;
     }
@@ -454,4 +464,7 @@ button:hover{
 .mini-phase img{
     width: 100%;
     height: auto;
+}
+.last{
+    height: 200px;
 }
