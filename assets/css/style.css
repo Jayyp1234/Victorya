@@ -453,7 +453,6 @@ button:hover{
 .cont-overview{
     width: 100%;
     justify-content: center;
-
     margin-bottom: 20px;
 }
 }
@@ -468,4 +467,14 @@ button:hover{
 }
 .last{
     height: 200px;
+}
+.phase-3 input{
+    background-color: #c1b7b7;
+    height: 40px;
+    border-radius: 10px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    opacity: 0.4;
+    margin-right: -5px;
+    padding-left: 30px;
 }
